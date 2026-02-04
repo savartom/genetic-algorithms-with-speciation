@@ -1,0 +1,13 @@
+optuna
+cma
+numba
+pyclustering
+opfunu
+pymoo
+umap-learn
+scipy
+plotly
+scikit-learn
+matplotlib
+numpy
+nevergrad
